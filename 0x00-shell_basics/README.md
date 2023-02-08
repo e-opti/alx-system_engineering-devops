@@ -4,3 +4,4 @@ change the working directory to the home directory
 list contents in a long format
 display hidden contents in long format
 list contents in long format with user and group IDs displayed numerically and hidden files (starting with .)
+create my_first_directory
