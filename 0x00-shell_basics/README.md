@@ -1,1 +1,2 @@
-current working diectory command
+current working directory
+list contents of current directory
