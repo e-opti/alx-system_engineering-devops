@@ -12,3 +12,4 @@ previous directory
 listing in specified order
 File type
 symbolic link
+copy HTML file
