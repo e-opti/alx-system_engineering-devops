@@ -9,3 +9,4 @@ move the file
 delete Betty
 delete my_first_directory
 previous directory
+listing in specified order
