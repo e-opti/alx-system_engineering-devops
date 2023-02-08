@@ -8,3 +8,4 @@ create my_first_directory
 move the file
 delete Betty
 delete my_first_directory
+previous directory
