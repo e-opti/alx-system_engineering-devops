@@ -6,3 +6,4 @@ display hidden contents in long format
 list contents in long format with user and group IDs displayed numerically and hidden files (starting with .)
 create my_first_directory
 move the file
+delete Betty
