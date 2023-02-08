@@ -14,3 +14,4 @@ File type
 symbolic link
 copy HTML files
 move uppercase
+clean Emacs
