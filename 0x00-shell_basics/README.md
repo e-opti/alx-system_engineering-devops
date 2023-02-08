@@ -16,3 +16,4 @@ copy HTML files
 move uppercase
 clean Emacs
 tree
+commas
