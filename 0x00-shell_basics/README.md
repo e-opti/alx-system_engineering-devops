@@ -7,3 +7,4 @@ list contents in long format with user and group IDs displayed numerically and h
 create my_first_directory
 move the file
 delete Betty
+delete my_first_directory
