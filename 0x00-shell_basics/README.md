@@ -17,3 +17,4 @@ move uppercase
 clean Emacs
 tree
 commas
+magic file
