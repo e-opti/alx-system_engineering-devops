@@ -10,3 +10,4 @@ delete Betty
 delete my_first_directory
 previous directory
 listing in specified order
+File type
