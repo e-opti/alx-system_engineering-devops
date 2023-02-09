@@ -10,3 +10,4 @@ James Bond
 John Doe
 Mirror permissions
 Directories
+Directory permission
