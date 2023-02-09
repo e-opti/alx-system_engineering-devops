@@ -4,3 +4,4 @@ Groups
 New owner
 Empty
 Execute hello
+Multiple permissions
