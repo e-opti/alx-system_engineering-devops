@@ -7,3 +7,4 @@ Execute hello
 Multiple permissions
 Everybody
 James Bond
+John Doe
