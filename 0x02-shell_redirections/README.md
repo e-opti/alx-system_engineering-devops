@@ -13,3 +13,4 @@ count directories
 newest
 unique
 find
+number of lines
