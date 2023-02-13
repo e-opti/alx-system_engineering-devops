@@ -16,3 +16,4 @@ find
 number of lines
 lines after
 hide
+letters only
