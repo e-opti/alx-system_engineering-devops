@@ -12,3 +12,4 @@ delete .js files
 count directories
 newest
 unique
+find
