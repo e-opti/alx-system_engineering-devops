@@ -18,3 +18,4 @@ lines after
 hide
 letters only
 replace
+remove
