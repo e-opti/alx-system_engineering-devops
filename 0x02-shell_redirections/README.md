@@ -1,4 +1,4 @@
-Hello World
+\Hello World
 Confused smiley
 Passwd
 Two files
@@ -15,3 +15,4 @@ unique
 find
 number of lines
 lines after
+hide
