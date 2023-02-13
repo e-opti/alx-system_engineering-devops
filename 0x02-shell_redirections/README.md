@@ -1,4 +1,4 @@
-\Hello World
+Hello World
 Confused smiley
 Passwd
 Two files
@@ -23,3 +23,4 @@ reverse
 users & homes
 empty
 gifs
+acrostic
