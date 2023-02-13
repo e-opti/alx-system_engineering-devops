@@ -19,3 +19,4 @@ hide
 letters only
 replace
 remove
+reverse
