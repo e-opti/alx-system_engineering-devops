@@ -7,3 +7,4 @@ First 10 lines
 iacta
 Best school
 long format redirection
+Duplicate
