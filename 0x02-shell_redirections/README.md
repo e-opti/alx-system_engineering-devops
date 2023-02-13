@@ -8,3 +8,4 @@ iacta
 Best school
 long format redirection
 Duplicate
+delete .js files
