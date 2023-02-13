@@ -10,3 +10,4 @@ long format redirection
 Duplicate
 delete .js files
 count directories
+newest
