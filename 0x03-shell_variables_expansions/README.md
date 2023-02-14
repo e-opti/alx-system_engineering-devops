@@ -1,2 +1,3 @@
 alias
 hello user
+path
