@@ -4,4 +4,5 @@ path
 count paths
 environment variables
 local variables
-create variable
+create local variable
+create global variable
