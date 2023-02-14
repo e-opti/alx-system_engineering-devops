@@ -11,3 +11,4 @@ divide & rule
 raise to the power
 base 2 - base 10
 combinations
+floats
